@@ -1,0 +1,10 @@
+# solo-pdf2md dependencies
+#
+# NOTE ON LICENSING:
+# PyMuPDF4LLM (and its PyMuPDF / PyMuPDF Layout dependencies) are
+# dual-licensed: GNU AGPL-3.0, or a commercial license from Artifex Software.
+# This project uses them under the AGPL-3.0 option, therefore the whole
+# project is distributed under AGPL-3.0. See LICENSE and THIRD_PARTY_LICENSES.md.
+#
+# 1.28.2 is the first release where PyMuPDF Layout is also AGPL-3.0.
+pymupdf4llm>=1.28.2
